@@ -1,0 +1,51 @@
+body{
+    background-color: #40826d;
+}
+
+.intro{
+    border: solid;
+    border-color: rgb(50, 150, 108);
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+a:link, a:visited{
+    color: black;
+}
+
+.tutorials{
+    border: solid;
+    border-color: rgb(50, 150, 108);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.aboutus{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.origamilogo{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.titleabout{
+    border: solid;
+    border-color: rgb(50, 150, 108);
+    padding-left: 10px;
+}
+
+.followus{
+    border: solid;
+    border-color: rgb(50, 150, 108);
+    padding-left: 10px;
+}
+
+.image:hover{
+    transform: scale(1.1);
+}
+
+.image{
+    margin-left: 100px;
+}
